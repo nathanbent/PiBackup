@@ -1,4 +1,5 @@
-+#wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh#
+
+#wget https://raw.githubusercontent.com/Drewsif/PiShrink/master/pishrink.sh
 #sudo chmod +x pishrink.sh
 #sudo mv pishrink.sh /usr/local/bin
 
